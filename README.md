@@ -5,6 +5,6 @@ personal maven repository
     \<repositories\>
         \<repository\>
             \<id\>maven\</id\>
-            \<url\>https://raw.github.com/distantguang/maven/artifact/mvnrep\</url\>
+            \<url\>https://raw.github.com/distantguang/maven/artifact/mvnrep</url\>
         \</repository\>
     \</repositories\>
